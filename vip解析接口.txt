@@ -1,0 +1,33 @@
+http://www.le.com/ptv/vplay/26544753.html  //乐视播放网址
+https://v.qq.com/x/cover/h188mdjtrh3up22.html 腾讯播放地址
+乐视解析：http://api.mmhhw.cn/huan6/letvvip.php?vid=乐视ID
+优酷云解析：http://api.mmhhw.cn/huan6/mgtv66.php?vid=C值
+芒果解析：http://api.mmhhw.cn/huan6/mgtv.php?vid=芒果ID
+优酷：http://www.wmxz.wang/video.php?url=
+芒果tv:http://www.wmxz.wang/video.php?url=
+磁力链接：http://apiv.ga/magnet/
+搜狐解析：[flash]http://tv.sohu.com/upload/swf/20160721/PlayerShell.swf[/flash]?id=84585021
+C值解析：[flash]http://js.tudouui.com/bin/custom/v0.7.14/player.swf[/flash]?xcode=C值&playerId=ytec&clientId=908a519d032263f8&autoPlay=true
+优酷 乐视 音悦台高清解析接口  http://www.200919.com/tv/v.php?url=后面加上播放的地址即可
+http://api.47ks.com/webcloud/?v=
+http://000o.cc/jx/ty.php?url=
+http://jx.71ki.com/index.php?url=
+http://jx.71ki.com/qqvip.php?url=
+http://dy.jiuli8.com/yunparse/index.php?url=
+http://ckplayer.duapp.com/?type=ykyun&url=
+
+通用接口支持优酷 ,爱奇艺,芒果,乐视,C值 等:http://yun.mt2t.com/yun?url= 
+示例: http://yun.mt2t.com/yun?url=http://www.iqiyi.com/v_19rrmbozpw.html 
+C值专用接口: http://yun.mt2t.com/ykc?url= 
+腾讯视频专用接口 http://yun.mt2t.com/qq?url=http://v.qq.com/x/cover/w8nsw83o6l6t58w.html 
+优酷专用接口 http://yun.mt2t.com/youku?url=http://v.youku.com/v_show/id_XMTY1MzYyMjY3Mg==.html
+
+http://www.vipjiexi.com/yun.php?url=1169059~letv
+http://www.vipjiexi.com/yun.php?url=537512700~qiyi
+http://www.vipjiexi.com/yun.php?url=3375716~sohu
+http://www.vipjiexi.com/yun.php?url=25206235~pptv
+http://www.vipjiexi.com/yun.php?url=3704466~mgtv
+http://www.vipjiexi.com/yun.php?url=8127155~wasu
+http://www.vipjiexi.com/yun.php?url=http://www.acfun.tv/v/ac3274850
+
+
